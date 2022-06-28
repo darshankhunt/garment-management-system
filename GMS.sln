@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_GMS", "PlayerUI\Final_GMS.csproj", "{E2C0807A-8CAB-469F-82D8-DCB64EFEA45B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupx32", "Setup\Setup.vdproj", "{880AFCCE-F8C5-45AF-8A62-883E6C94BAB5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupx64", "Setupx64\Setupx64.vdproj", "{6693574A-9D09-445A-A833-F2FEED90CC7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C0807A-8CAB-469F-82D8-DCB64EFEA45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C0807A-8CAB-469F-82D8-DCB64EFEA45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C0807A-8CAB-469F-82D8-DCB64EFEA45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C0807A-8CAB-469F-82D8-DCB64EFEA45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880AFCCE-F8C5-45AF-8A62-883E6C94BAB5}.Debug|Any CPU.ActiveCfg = Debug
+		{880AFCCE-F8C5-45AF-8A62-883E6C94BAB5}.Release|Any CPU.ActiveCfg = Release
+		{6693574A-9D09-445A-A833-F2FEED90CC7F}.Debug|Any CPU.ActiveCfg = Debug
+		{6693574A-9D09-445A-A833-F2FEED90CC7F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
