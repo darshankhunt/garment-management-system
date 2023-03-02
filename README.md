@@ -1,6 +1,9 @@
 # garment-management-system
 Desktop application for garment management system using C#.(.net | Windows Form)
 
+Link of Presentation
+https://prezi.com/view/f9nhvuKBsf8dPAEERCkn/
+
 ✔ Output:-
 
   ![Login Page](https://user-images.githubusercontent.com/83128853/176484691-87730d02-9570-41b1-882a-85d8c807c3ac.png)
